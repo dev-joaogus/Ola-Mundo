@@ -1,0 +1,7 @@
+#include <stdin.h>
+
+int main() {
+    int a = 19;
+
+    printf("%i", a);
+}
